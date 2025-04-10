@@ -55,6 +55,11 @@ En caso de desear reentregar (siempre que te encuentres dentro del período de e
 mvn clean verify && git tag entrega-final && git push origin HEAD --tags -f
 ```
 
+Una vez que hayan entregado satisfactoriamente, deberán ver un tilde verde en su último commit: 
+
+![image](https://github.com/user-attachments/assets/797ac9f9-1968-4135-ab30-d43612fec14e)
+
+
 ## Configuración del IDE (IntelliJ)
 
 ### Usar el SDK de Java 17
